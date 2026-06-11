@@ -1,2 +1,2 @@
-# aura-vector-dashboard
-AURA VECTOR — AI-powered  analytics demo project.”
+# AURA VECTOR — Enterprise AI Dashboard
+Demo project for HR attrition prediction and business insights.
